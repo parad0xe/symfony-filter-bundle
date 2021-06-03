@@ -1,6 +1,6 @@
 # symfony-filter-bundle
 
-##Installation
+## Installation
 
 ### Setup environment
 Add the bundle repository in your composer.json
