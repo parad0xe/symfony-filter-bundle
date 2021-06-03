@@ -1,0 +1,4 @@
+services:
+    filter.twig.extension:
+        class: Parad0xe\Bundle\FilterBundle\Twig\FilterExtension
+        tags: ["twig.extension"]

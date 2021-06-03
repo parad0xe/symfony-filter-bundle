@@ -1,0 +1,22 @@
+{
+    "name": "parad0xe/symfony-filter-bundle",
+	"version": "v1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "filter"
+    ],
+    "authors": [
+        {
+            "name": "Parad0xe",
+            "email": "Parad0xe@protonmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Parad0xe\\Bundle\\FilterBundle\\": "" }
+    },
+    "require": {
+	"php": "^7.2",
+        "nesbot/carbon": "^2.16"
+    }
+}
